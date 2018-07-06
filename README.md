@@ -1,5 +1,4 @@
 # Hello-World
-Just Example
 
 Hi there!
 
